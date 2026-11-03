@@ -13,15 +13,17 @@ export default defineConfig({
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
-    sidebar: [
+    sidebar: {
+      '/projects/': [
       {
-        text: 'Examples',
+        text: 'Projects',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Overview', link: '/projects/' },
+          { text: 'AI-Assisted Detection Engineering', link: '/projects/ai-detection-engineering' }
         ]
       }
-    ],
+    ]
+  },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Beginn-coder' }
