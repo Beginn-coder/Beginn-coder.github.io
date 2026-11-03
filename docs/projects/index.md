@@ -18,27 +18,13 @@ An AI-assisted security operations project exploring how large language models a
 
 
 
-\*\*Technologies:\*\* SIEM, Sysmon, Sigma, Atomic Red Team, GitHub Actions, Tines, Jira, and LLM-based security workflows.
+\*\*Technologies:\*\* SIEM, Sysmon, Sigma, GitHub Actions, Tines, Jira, and LLM-based security workflows.
 
 
 
 \[View the repository](https://github.com/Beginn-coder/AI-assisted-Detection-Engineering-Incident-Response)
 
 
-
-\### Enterprise GRC \& Third-Party Risk Assessment
-
-
-
-A simulated enterprise Governance, Risk, and Compliance assessment evaluating a fictional cloud-based EdTech vendor against security control requirements and an organizational risk baseline.
-
-
-
-\*\*Frameworks:\*\* NIST SP 800-53 Rev. 5, NIST SP 800-37 Rev. 2, and NIST SP 800-30 Rev. 1.
-
-
-
-\[View the repository](https://github.com/Beginn-coder/Enterprise-GRC-Third-Party-Risk-Assessment-NIST-SP-800-53-RMF-)
 
 
 
