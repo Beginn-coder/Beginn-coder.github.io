@@ -20,7 +20,8 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/projects/' },
           { text: 'AI-Assisted Detection Engineering', link: '/projects/ai-detection-engineering' },
-          { text: 'Northstar Enterprise Lab', link: '/projects/northstar-lab' }
+          { text: 'Northstar Enterprise Lab', link: '/projects/northstar-lab' },
+          { text: 'Additional Labs', link: '/projects/additional-labs' }
         ]
       }
     ]

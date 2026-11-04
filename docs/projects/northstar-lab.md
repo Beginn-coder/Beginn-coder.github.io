@@ -24,7 +24,7 @@ Northstar is a planned enterprise-inspired hybrid security environment for a fic
 
 \- Identity and access security, Active Directory, and Group Policy
 
-\- Endpoint telemetry and investigation
+\- Endpoint telemetry and investigation, using honeytokens and honeyuser accounts
 
 \- Application-layer security and insider-threat investigations
 
@@ -32,9 +32,11 @@ Northstar is a planned enterprise-inspired hybrid security environment for a fic
 
 \- Security orchestration, automation, and incident response
 
-\- AI-assisted SOC operations
+\- AI agents for SOC and identity and access management (IAM) workflows
 
-\- AI red-teaming and regression-based security validation
+\- An internal RAG knowledge hub for AI application security assessment
+
+\- AI red-teaming and regression-based security validation with PyRIT
 
 
 
@@ -42,7 +44,7 @@ Northstar is a planned enterprise-inspired hybrid security environment for a fic
 
 
 
-Microsoft Sentinel, Microsoft Defender, Azure, Azure Arc, Active Directory, Sysmon, OWASP Juice Shop, and PyRIT.
+Microsoft Sentinel, Microsoft Defender, Azure, Azure Arc, Active Directory, Sysmon, OWASP Juice Shop, PyRIT, and AI agents.
 
 
 
