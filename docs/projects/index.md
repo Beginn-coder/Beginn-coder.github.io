@@ -1,52 +1,68 @@
-\# Projects
+# Projects
 
 
 
-Hands-on security projects covering detection engineering, incident response, governance, risk, and compliance, and enterprise security architecture.
+Hands-on security projects covering detection engineering, incident response, and enterprise security architecture.
 
 
 
-\## Featured projects
+## Featured projects
 
 
 
-\### AI-Assisted Detection Engineering \& Incident Response Platform
+### [AI-Assisted Detection Engineering \& Incident Response Platform](/projects/ai-detection-engineering)
 
 
 
-An AI-assisted security operations project exploring how large language models and automation can support detection engineering, alert analysis, and incident response workflows.
+A Detection-as-Code and incident response workflow. Sigma rules are validated and compiled through GitHub Actions, Splunk alerts feed a Tines workflow, an AI agent drafts triage reports, and a human analyst approves containment through Jira. The containment step is simulated.
 
 
 
-\*\*Technologies:\*\* SIEM, Sysmon, Sigma, GitHub Actions, Tines, Jira, and LLM-based security workflows.
+**Technologies:** Splunk Enterprise, Sysmon, Sigma, GitHub Actions, Tines, Jira, and an LLM-based triage agent.
 
 
 
-\[View the repository](https://github.com/Beginn-coder/AI-assisted-Detection-Engineering-Incident-Response)
+[Read the project page](/projects/ai-detection-engineering) · [View the repository](https://github.com/Beginn-coder/AI-assisted-Detection-Engineering-Incident-Response)
 
 
 
-
-
-\### Northstar Enterprises: Enterprise Security Engineering Lab
-
-
-
-\*Currently in development.\*
+### [Northstar Enterprise Lab](/projects/northstar-lab)
 
 
 
-A planned enterprise-inspired hybrid security environment integrating security operations, identity security, cloud infrastructure, endpoint monitoring, application security, automation, and AI-assisted security workflows. Planned capabilities are not presented as completed implementations.
+*Status: planning and early setup. Nothing here is a completed implementation.*
 
 
 
-\## Additional projects
+A planned enterprise-inspired hybrid security environment for a fictional company, bringing together security operations, identity security, cloud infrastructure, endpoint monitoring, application security, deception, automation, and AI-assisted workflows.
 
 
 
-A collection of hands-on labs and learning implementations. Several are based on guided tutorials and are included to document hands-on practice, not to represent independent production implementations.
+[Read the project page](/projects/northstar-lab)
 
 
 
-\[Browse all repositories on GitHub](https://github.com/Beginn-coder?tab=repositories)
+## Additional labs
+
+
+
+Six hands-on labs based on guided tutorials and learning resources, with sources credited on the page:
+
+
+
+\- SOC Automation Lab
+
+\- SOC Automation Project 2.0
+
+\- SOAR-EDR Lab
+
+\- Active Directory Lab
+
+\- T-Pot Honeypot Lab
+
+\- Vulnerability Management Lab
+
+
+
+[See all six labs and their sources](/projects/additional-labs) · [Browse all repositories on GitHub](https://github.com/Beginn-coder?tab=repositories)
 
