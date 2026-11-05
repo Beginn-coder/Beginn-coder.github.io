@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Nicholas Lynardakis"
-  text: "Cybersecurity | Security Engineering | AI Security"
-  tagline: "Master's degree in cybersecurity and CompTIA Security+ certified, moving from IT into cybersecurity and building hands-on projects in detection engineering, security automation, and AI-assisted security."
+  text: "Cybersecurity<br>Security Engineering<br>AI Security"
+  tagline: "Master's degree in Cybersecurity and CompTIA Security+ certified, moving from IT into cybersecurity and building hands-on projects in detection engineering, security automation, and AI-assisted security."
   actions:
     - theme: brand
       text: View Projects
