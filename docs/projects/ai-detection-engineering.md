@@ -1,18 +1,18 @@
-\## Objectives
+## Objectives
 
 
 
-\- Build a Detection-as-Code workflow where Sigma rules are version-controlled, validated, and compiled into Splunk queries through GitHub Actions.
+- Build a Detection-as-Code workflow where Sigma rules are version-controlled, validated, and compiled into Splunk queries through GitHub Actions.
 
-\- Route Splunk alerts into an automated triage workflow built in Tines.
+- Route Splunk alerts into an automated triage workflow built in Tines.
 
-\- Use an AI agent to produce a structured triage report for each alert.
+- Use an AI agent to produce a structured triage report for each alert.
 
-\- Create Jira incident tickets automatically, with a human analyst approving containment before any response action runs.
+- Create Jira incident tickets automatically, with a human analyst approving containment before any response action runs.
 
 
 
-\## Technologies
+## Technologies
 
 
 
@@ -20,7 +20,7 @@ Splunk Enterprise, Sysmon, Sigma, sigma-cli, GitHub Actions, Tines, Jira, and an
 
 
 
-\## Architecture
+## Architecture
 
 
 
@@ -28,19 +28,19 @@ The workflow runs in five stages:
 
 
 
-1\. \*\*Telemetry ingestion:\*\* A Windows 10 VM logs process activity with Sysmon and forwards it to Splunk Enterprise.
+1. **Telemetry ingestion:** A Windows 10 VM logs process activity with Sysmon and forwards it to Splunk Enterprise.
 
-2\. \*\*Alert trigger:\*\* Splunk detects suspicious activity, such as `whoami.exe` execution or local account discovery, and sends the alert to a Tines webhook.
+2. **Alert trigger:** Splunk detects suspicious activity, such as `whoami.exe` execution or local account discovery, and sends the alert to a Tines webhook.
 
-3\. \*\*Automated incident creation:\*\* Tines parses the alert, an AI agent produces a triage report, and the result is created as a Jira issue through Jira's REST API.
+3. **Automated incident creation:** Tines parses the alert, an AI agent produces a triage report, and the result is created as a Jira issue through Jira's REST API.
 
-4\. \*\*Analyst approval:\*\* A SOC analyst reviews the ticket. To request containment, the analyst adds the `auto-isolate` label.
+4. **Analyst approval:** A SOC analyst reviews the ticket. To request containment, the analyst adds the `auto-isolate` label.
 
-5\. \*\*Simulated containment:\*\* Jira notifies Tines, which validates the request and sends a simulated host-isolation request. Tines then posts an audit comment back to the Jira ticket.
+5. **Simulated containment:** Jira notifies Tines, which validates the request and sends a simulated host-isolation request. Tines then posts an audit comment back to the Jira ticket.
 
 
 
-\## Implementation
+## Implementation
 
 
 
@@ -54,11 +54,11 @@ The Tines story filters incoming alerts by rule name and sends them to an AI age
 
 
 
-\*\*Scope note:\*\* The containment step simulates an EDR API call and does not isolate a real host.
+**Scope note:** The containment step simulates an EDR API call and does not isolate a real host.
 
 
 
-\## Lessons learned
+## Lessons learned
 
 
 
