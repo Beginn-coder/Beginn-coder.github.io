@@ -1,25 +1,23 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Nicholas Lynardakis"
   text: "Cybersecurity | Security Engineering | AI Security"
-  tagline: Portfolio in progress
+  tagline: "Master's degree in cybersecurity and CompTIA Security+ certified, moving from IT into cybersecurity and building hands-on projects in detection engineering, security automation, and AI-assisted security."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: View Projects
+      link: /projects/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Connect on LinkedIn
+      link: https://www.linkedin.com/in/nicholas-lynardakis-50b607177/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Security Operations & Detection Engineering
+    details: Detection-as-Code with Sigma and GitHub Actions, Splunk alerting, and incident response workflows built in Tines and Jira.
+  - title: Identity, Cloud & Infrastructure Security
+    details: Hands-on with Active Directory and Windows and Linux administration, building on Azure, Entra ID, and hybrid identity.
+  - title: AI-Assisted Security Engineering
+    details: An LLM-based triage agent inside an incident response workflow, with AI application security and AI red-teaming as areas I am exploring.
 ---
-
