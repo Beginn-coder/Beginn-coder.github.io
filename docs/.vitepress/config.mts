@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'Projects', link: '/projects/' },
       { text: 'Skills', link: '/skills/' },
       { text: 'Certifications', link: '/certifications' },
+      { text: 'Contact', link: '/contact' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
