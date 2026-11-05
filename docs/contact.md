@@ -1,4 +1,4 @@
-\# Contact
+# Contact
 
 
 
@@ -6,9 +6,9 @@ I'm interested in connecting with cybersecurity professionals, security engineer
 
 
 
-\- \*\*LinkedIn:\*\* \[linkedin.com/in/nicholas-lynardakis-50b607177](https://www.linkedin.com/in/nicholas-lynardakis-50b607177/)
+- **LinkedIn:** [linkedin.com/in/nicholas-lynardakis-50b607177](https://www.linkedin.com/in/nicholas-lynardakis-50b607177/)
 
-\- \*\*GitHub:\*\* \[github.com/Beginn-coder](https://github.com/Beginn-coder)
+- **GitHub:** [github.com/Beginn-coder](https://github.com/Beginn-coder)
 
 
 

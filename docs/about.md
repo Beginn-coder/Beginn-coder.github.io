@@ -1,4 +1,4 @@
-\# About Me
+# About Me
 
 
 
@@ -6,7 +6,7 @@ I'm an IT professional and cybersecurity graduate moving into cybersecurity, wit
 
 
 
-\## Background
+## Background
 
 
 
@@ -14,17 +14,17 @@ My IT background is in desktop support and laboratory IT operations.
 
 
 
-\## Education
+## Education
 
 
 
-\- \*\*M.S degree in Cybersecurity\*\*, NJIT
+- **M.S degree in Cybersecurity**, NJIT
 
-\- \*\*B.S. in Information Technology\*\*, NJIT
+- **B.S. in Information Technology**, NJIT
 
 
 
-\## Transition into cybersecurity
+## Transition into cybersecurity
 
 
 
@@ -32,7 +32,7 @@ Building on my B.S. in Information Technology and M.S. in Cybersecurity, I'm dev
 
 
 
-\## Professional interests
+## Professional interests
 
 
 
@@ -42,21 +42,21 @@ My long-term interests are security engineering, cloud security, identity securi
 
 
 
-\## Currently exploring
+## Currently exploring
 
 
 
 
 
-\- Microsoft Sentinel and advanced detection engineering
+- Microsoft Sentinel and advanced detection engineering
 
-\- Cloud and hybrid identity security
+- Cloud and hybrid identity security
 
-\- Endpoint detection and response (EDR)
+- Endpoint detection and response (EDR)
 
-\- AI-assisted security operations and agentic workflows
+- AI-assisted security operations and agentic workflows
 
-\- AI application security and AI red-teaming
+- AI application security and AI red-teaming
 
-\- Enterprise GRC and third-party risk management
+- Enterprise GRC and third-party risk management
 

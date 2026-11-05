@@ -1,4 +1,4 @@
-\# Additional Security Labs
+# Additional Security Labs
 
 
 
@@ -6,11 +6,11 @@ Hands-on labs and learning implementations covering different areas of cybersecu
 
 
 
-\## SOC Automation Lab
+## SOC Automation Lab
 
 
 
-\*\*Based on:\*\* a guided tutorial from MyDFIR.
+**Based on:** a guided tutorial from MyDFIR.
 
 
 
@@ -22,11 +22,11 @@ Explores SIEM monitoring, alerting, and incident response automation using Wazuh
 
 
 
-\## SOC Automation Project 2.0
+## SOC Automation Project 2.0
 
 
 
-\*\*Based on:\*\* a guided tutorial from MyDFIR.
+**Based on:** a guided tutorial from MyDFIR.
 
 
 
@@ -38,11 +38,11 @@ Explores security monitoring and automated response workflows. The environment f
 
 
 
-\## SOAR-EDR Lab
+## SOAR-EDR Lab
 
 
 
-\*\*Based on:\*\* a guided tutorial from MyDFIR.
+**Based on:** a guided tutorial from MyDFIR.
 
 
 
@@ -54,11 +54,11 @@ Explores EDR telemetry and SOAR integrations.
 
 
 
-\## Active Directory Lab
+## Active Directory Lab
 
 
 
-\*\*Based on:\*\* a guided tutorial from MyDFIR.
+**Based on:** a guided tutorial from MyDFIR.
 
 
 
@@ -70,11 +70,11 @@ Explores Windows domain services, authentication, and security monitoring.
 
 
 
-\## T-Pot Honeypot Lab
+## T-Pot Honeypot Lab
 
 
 
-\*\*Based on:\*\* a guide on hosting a honeypot in Azure using T-Pot, by Mani Bharathi B
+**Based on:** a guide on hosting a honeypot in Azure using T-Pot, by Mani Bharathi B
 
 
 
@@ -86,11 +86,11 @@ Covers threat intelligence, honeypot deployment, and analysis of suspicious netw
 
 
 
-\## Vulnerability Management Lab
+## Vulnerability Management Lab
 
 
 
-\*\*Based on:\*\* a guide from Josh Madakor, adapted to run on local virtual machines instead of cloud VMs.
+**Based on:** a guide from Josh Madakor, adapted to run on local virtual machines instead of cloud VMs.
 
 
 

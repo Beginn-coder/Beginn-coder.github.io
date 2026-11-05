@@ -1,16 +1,16 @@
-\# Certifications
+# Certifications
 
 
 
-\## CompTIA Security+
+## CompTIA Security+
 
 
 
-\- \*\*Status:\*\* Certified
+- **Status:** Certified
 
-\- \*\*Earned:\*\* October 2024
+- **Earned:** October 2024
 
-\- \*\*Expires:\*\* October 2027
+- **Expires:** October 2027
 
-\- \*\*Verification ID:\*\* KEBSHPJRPBRQ1Z5P
+- **Verification ID:** KEBSHPJRPBRQ1Z5P
 

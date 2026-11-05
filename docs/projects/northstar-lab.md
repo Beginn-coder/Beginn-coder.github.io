@@ -1,12 +1,12 @@
-\# Northstar Enterprises: Enterprise Security Engineering Lab
+# Northstar Enterprises: Enterprise Security Engineering Lab
 
 
 
-\*\*Status: planning and early setup.\*\* Nothing on this page is a completed implementation. It describes what I intend to build, and I will update it as components are finished.
+**Status: planning and early setup.** Nothing on this page is a completed implementation. It describes what I intend to build, and I will update it as components are finished.
 
 
 
-\## Vision
+## Vision
 
 
 
@@ -14,33 +14,33 @@ Northstar is a planned enterprise-inspired hybrid security environment for a fic
 
 
 
-\## Planned areas
+## Planned areas
 
 
 
-\- Enterprise cloud and hybrid infrastructure
+- Enterprise cloud and hybrid infrastructure
 
-\- SIEM operations, detection engineering, and threat hunting
+- SIEM operations, detection engineering, and threat hunting
 
-\- Identity and access security, Active Directory, and Group Policy
+- Identity and access security, Active Directory, and Group Policy
 
-\- Endpoint telemetry and investigation, using honeytokens and honeyuser accounts
+- Endpoint telemetry and investigation, using honeytokens and honeyuser accounts
 
-\- Application-layer security and insider-threat investigations
+- Application-layer security and insider-threat investigations
 
-\- Threat intelligence and deception technology
+- Threat intelligence and deception technology
 
-\- Security orchestration, automation, and incident response
+- Security orchestration, automation, and incident response
 
-\- AI agents for SOC and identity and access management (IAM) workflows
+- AI agents for SOC and identity and access management (IAM) workflows
 
-\- An internal RAG knowledge hub for AI application security assessment
+- An internal RAG knowledge hub for AI application security assessment
 
-\- AI red-teaming and regression-based security validation with PyRIT
+- AI red-teaming and regression-based security validation with PyRIT
 
 
 
-\## Planned technologies
+## Planned technologies
 
 
 
@@ -48,7 +48,7 @@ Microsoft Sentinel, Microsoft Defender, Azure, Azure Arc, Active Directory, Sysm
 
 
 
-\## Current progress
+## Current progress
 
 
 

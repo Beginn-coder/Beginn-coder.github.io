@@ -10,7 +10,7 @@ Hands-on security projects covering detection engineering, incident response, an
 
 
 
-### [AI-Assisted Detection Engineering \& Incident Response Platform](/projects/ai-detection-engineering)
+### [AI-Assisted Detection Engineering & Incident Response Platform](/projects/ai-detection-engineering)
 
 
 
@@ -50,17 +50,17 @@ Six hands-on labs based on guided tutorials and learning resources, with sources
 
 
 
-\- SOC Automation Lab
+- SOC Automation Lab
 
-\- SOC Automation Project 2.0
+- SOC Automation Project 2.0
 
-\- SOAR-EDR Lab
+- SOAR-EDR Lab
 
-\- Active Directory Lab
+- Active Directory Lab
 
-\- T-Pot Honeypot Lab
+- T-Pot Honeypot Lab
 
-\- Vulnerability Management Lab
+- Vulnerability Management Lab
 
 
 
