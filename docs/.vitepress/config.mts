@@ -4,30 +4,31 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Nicholas Lynardakis",
   description: "Cybersecurity | Security Engineering | AI Security",
+  appearance: 'force-dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
       { text: 'Projects', link: '/projects/' },
-      { text: 'Skills', link: '/skills/' },
+      { text: 'Skills', link: '/skills' },
       { text: 'Certifications', link: '/certifications' },
       { text: 'Contact', link: '/contact' }
     ],
 
     sidebar: {
       '/projects/': [
-      {
-        text: 'Projects',
-        items: [
-          { text: 'Overview', link: '/projects/' },
-          { text: 'AI-Assisted Detection Engineering', link: '/projects/ai-detection-engineering' },
-          { text: 'Northstar Enterprise Lab', link: '/projects/northstar-lab' },
-          { text: 'Additional Labs', link: '/projects/additional-labs' }
-        ]
-      }
-    ]
-  },
+        {
+          text: 'Projects',
+          items: [
+            { text: 'Overview', link: '/projects/' },
+            { text: 'AI-Assisted Detection Engineering', link: '/projects/ai-detection-engineering' },
+            { text: 'Northstar Enterprise Lab', link: '/projects/northstar-lab' },
+            { text: 'Additional Labs', link: '/projects/additional-labs' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Beginn-coder' }
