@@ -10,35 +10,37 @@ Hands-on security projects covering detection engineering, incident response, an
 
 
 
-### [AI-Assisted Detection Engineering & Incident Response Platform](/projects/ai-detection-engineering)
+<div class="project-grid">
 
+<div class="project-card">
 
+<p class="project-status">Home lab project</p>
 
-A Detection-as-Code and incident response workflow. Sigma rules are validated and compiled through GitHub Actions, Splunk alerts feed a Tines workflow, an AI agent drafts triage reports, and a human analyst approves containment through Jira. The containment step is simulated.
+<h3>AI-Assisted Detection Engineering &amp; Incident Response</h3>
 
+<p>A Detection-as-Code and incident response workflow. Sigma rules are validated through GitHub Actions, Splunk alerts feed a Tines workflow, an AI agent drafts triage reports, and a human analyst approves containment through Jira. The containment step is simulated.</p>
 
+<p class="project-tech">Splunk, Sysmon, Sigma, GitHub Actions, Tines, Jira, LLM triage agent</p>
 
-**Technologies:** Splunk Enterprise, Sysmon, Sigma, GitHub Actions, Tines, Jira, and an LLM-based triage agent.
+<p class="project-links"><a href="/projects/ai-detection-engineering.html">Project page</a><a href="https://github.com/Beginn-coder/AI-assisted-Detection-Engineering-Incident-Response" target="_blank" rel="noopener noreferrer">Repository</a></p>
 
+</div>
 
+<div class="project-card">
 
-[Read the project page](/projects/ai-detection-engineering) · [View the repository](https://github.com/Beginn-coder/AI-assisted-Detection-Engineering-Incident-Response)
+<p class="project-status">Planning and early setup</p>
 
+<h3>Northstar Enterprise Lab</h3>
 
+<p>A planned enterprise-inspired hybrid security environment for a fictional company, bringing together security operations, identity security, cloud infrastructure, deception, automation, and AI-assisted workflows. Nothing here is a completed implementation.</p>
 
-### [Northstar Enterprise Lab](/projects/northstar-lab)
+<p class="project-tech">Microsoft Sentinel, Azure, Active Directory, PyRIT, AI agents</p>
 
+<p class="project-links"><a href="/projects/northstar-lab.html">Project page</a></p>
 
+</div>
 
-*Status: planning and early setup. Nothing here is a completed implementation.*
-
-
-
-A planned enterprise-inspired hybrid security environment for a fictional company, bringing together security operations, identity security, cloud infrastructure, endpoint monitoring, application security, deception, automation, and AI-assisted workflows.
-
-
-
-[Read the project page](/projects/northstar-lab)
+</div>
 
 
 
@@ -46,23 +48,19 @@ A planned enterprise-inspired hybrid security environment for a fictional compan
 
 
 
-Six hands-on labs based on guided tutorials and learning resources, with sources credited on the page:
+<div class="project-grid">
 
+<div class="project-card">
 
+<p class="project-status">Guided tutorials</p>
 
-- SOC Automation Lab
+<h3>Six hands-on labs</h3>
 
-- SOC Automation Project 2.0
+<p>SOC Automation Lab, SOC Automation Project 2.0, SOAR-EDR Lab, Active Directory Lab, T-Pot Honeypot Lab, and Vulnerability Management Lab. Each is based on a guided tutorial or learning resource, credited on the page.</p>
 
-- SOAR-EDR Lab
+<p class="project-links"><a href="/projects/additional-labs.html">See all six labs</a><a href="https://github.com/Beginn-coder?tab=repositories" target="_blank" rel="noopener noreferrer">All repositories</a></p>
 
-- Active Directory Lab
+</div>
 
-- T-Pot Honeypot Lab
-
-- Vulnerability Management Lab
-
-
-
-[See all six labs and their sources](/projects/additional-labs) · [Browse all repositories on GitHub](https://github.com/Beginn-coder?tab=repositories)
+</div>
 

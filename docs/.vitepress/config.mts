@@ -32,6 +32,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Beginn-coder' }
-    ]
+    ],
+
+    footer: {
+      message: 'Built with VitePress and hosted on GitHub Pages.',
+      copyright: 'Copyright © 2026 Nicholas Lynardakis'
+    }
   }
 })
