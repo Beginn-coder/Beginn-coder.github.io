@@ -2,7 +2,7 @@
 
 
 
-I'm an IT professional moving into cybersecurity, with a focus on security engineering and AI security. I'm building hands-on experience across security operations, detection engineering, identity and access management, cloud security, and AI-assisted security workflows, and I document that work through the labs and projects on this site.
+I'm an IT professional and cybersecurity graduate moving into cybersecurity, with a focus on security engineering and AI security. I'm building hands-on experience across security operations, detection engineering, identity and access management, cloud security, and AI-assisted security workflows, and I document that work through the labs and projects on this site.
 
 
 
@@ -28,7 +28,7 @@ My IT background is in desktop support and laboratory IT operations.
 
 
 
-I'm making the move from IT support into cybersecurity through structured learning and hands-on practice. I earned the CompTIA Security+ certification and built labs and portfolio projects covering security monitoring, detection engineering, identity security, and governance, risk, and compliance. These projects show how I work: I build, test, and document how security controls behave in enterprise-style environments.
+Building on my B.S. in Information Technology and M.S. in Cybersecurity, I'm developing hands-on experience through structured learning and practice. I earned the CompTIA Security+ certification and built labs and portfolio projects covering security monitoring, detection engineering, identity security, and governance, risk, and compliance. These projects show how I work: I build, test, and document how security controls behave in enterprise-style environments.
 
 
 
