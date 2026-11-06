@@ -38,6 +38,9 @@ The workflow runs in five stages:
 
 5. **Simulated containment:** Jira notifies Tines, which validates the request and sends a simulated host-isolation request. Tines then posts an audit comment back to the Jira ticket.
 
+![Tines story canvas showing the alert triage and containment workflow](/images/tines-story-canvas.png)
+
+*The Tines story: Splunk alerts enter through a webhook, an AI agent drafts the triage report, Jira tickets are created, and an analyst-applied label gates the simulated containment step.*
 
 
 ## Implementation
